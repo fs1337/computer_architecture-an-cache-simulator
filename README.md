@@ -3,5 +3,7 @@
 
 
 Run it with two input files (config file and trace file):
+
            ./cachesimulator.out cacheconfig.txt trace.txt
+           
 It will output: trace.txt.out in the same directory.
